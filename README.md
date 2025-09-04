@@ -4,7 +4,9 @@ Predict the price of any car in seconds!
 
 Features
 -Predicts prices for new cars
+
 -Shows actual vs predicted values in a graph
+
 -Evaluates model with R² score and the Mean squared error
 
 How to use 
