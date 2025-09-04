@@ -1,4 +1,5 @@
 CAR PRICE PREDICTION
+
 Predict the price of any car in seconds!
 - This is a simple beginner friendly ML project that uses linear regression to predict car prices based on features such as age, engine size and mileage
 
